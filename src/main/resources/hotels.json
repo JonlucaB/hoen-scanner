@@ -34,5 +34,8 @@
   {
     "city": "rustburg",
     "title": "The Shack"
+  },
+  {
+    "I will": "throw an error"
   }
 ]
